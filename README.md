@@ -58,5 +58,5 @@ I enjoy solving real-world problems and turning manual processes into predictabl
 ### 🤝 Let's Connect
 
 Feel free to reach out, collaborate, or just say hi!
-- LinkedIn: [*add your link here*](https://www.linkedin.com/feed/)
+- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 - Email : benzakourlatefa@gmail.com
