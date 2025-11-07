@@ -16,14 +16,18 @@ I love automation, cloud platforms, and turning complicated tech into something 
 
 ### 🛠️ Technologies & Tools
 
+* **Cloud Infrastructure:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 * **CI/CD Tools:** Jenkins, AWS CodePipeline, CodeBuild.
 * **Infrastructure as Code:** Terraform, Ansible. 
-* **Containerization & Orchestration:** Docker, Kubernetes, ECS, Helm, EKS.
+* **Containerization & Orchestration:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+Docker, Kubernetes, ECS, Helm, EKS.
 * **Monitoring & Logging:** CloudWatch, promethous, grafana.
-* **Scripting & Programming:** Python, Bash. 
+* **Scripting & Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Bash. 
 * **Version Control:** Git, GitHub. 
 * **Security & Compliance:** IAM, Security Groups, VPC. 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ---
 
 ### 🚀 What I'm Working On
