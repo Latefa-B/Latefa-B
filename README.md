@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Latefa 👋
 
-<!--
-**Latefa-B/Latefa-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Engineer who enjoys building smooth, reliable, and scalable infrastructure.
+I love automation, cloud platforms, and turning complicated tech into something clean and understandable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* Working with **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Jenkins** and **CI/CD pipelines**.
+* Passionate about **automation** and improving developer workflows.
+* Always learning, improving, and sharing knowledge.
+* Fuelled by **coffee** ☕ and **long walks** 🚶‍♀️ that help me think things through.
+
+---
+
+### 🛠️ Technologies & Tools
+
+* **CI/CD Tools:** Jenkins, AWS CodePipeline, CodeBuild.
+* **Infrastructure as Code:** Terraform, Ansible. 
+* **Containerization & Orchestration:** Docker, Kubernetes, ECS, Helm, EKS.
+* **Monitoring & Logging:** CloudWatch, promethous, grafana.
+* **Scripting & Programming:** Python, Bash. 
+* **Version Control:** Git, GitHub. 
+* **Security & Compliance:** IAM, Security Groups, VPC. 
+
+---
+
+### 🚀 What I'm Working On
+
+* Expanding real-world cloud architecture + Kubernetes deployment projects.
+* Building more CI/CD automation workflows.
+* Documenting projects clearly for others to follow.
+
+---
+
+### 🤝 Let's Connect
+
+Feel free to reach out, collaborate, or just say hi!
