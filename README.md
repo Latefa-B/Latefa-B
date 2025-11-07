@@ -6,11 +6,11 @@ I enjoy solving real-world problems and turning manual processes into predictabl
 ---
 
 ### ☕ A Bit About Me
-☕🚶‍♀️Powered by coffee and inspired by long walks — that’s where I do my best thinking and problem-solving.
-🌱 Always learning, improving, and sharing knowledge.
-🔭 Working with AWS, Kubernetes, Docker, Terraform, Jenkins and CI/CD pipelines.
-🌍 I'm based in Orlando, Florida.
-🖥️ See my portfolio at X
+* ☕🚶‍♀️Powered by coffee and inspired by long walks — that’s where I do my best thinking and problem-solving.
+* 🌱 Always learning, improving, and sharing knowledge.
+* 🔭 Working with AWS, Kubernetes, Docker, Terraform, Jenkins and CI/CD pipelines.
+* 🌍 I'm based in Orlando, Florida.
+* 🖥️ See my portfolio at X
 
 ---
 
