@@ -23,7 +23,7 @@ I love automation, cloud platforms, and turning complicated tech into something 
 * **Scripting & Programming:** Python, Bash. 
 * **Version Control:** Git, GitHub. 
 * **Security & Compliance:** IAM, Security Groups, VPC. 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
 
 ### 🚀 What I'm Working On
