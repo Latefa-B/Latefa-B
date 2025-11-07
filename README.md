@@ -8,7 +8,7 @@ I love automation, cloud platforms, and turning complicated tech into something 
 ### About Me
 
 * Working with **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Jenkins** and **CI/CD pipelines**.
-* Passionate about **automation** and improving developer workflows.
+* Passionate about **automation**.
 * Always learning, improving, and sharing knowledge.
 * Fuelled by **coffee** ☕ and **long walks** 🚶‍♀️ that help me think things through.
 
